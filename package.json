@@ -1,0 +1,11 @@
+{
+  "name": "@nyxb/package-test",
+  "version": "0.0.1",
+  "description": "Test package",
+  "author": "Dennis Ollhoff",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "license": "MIT"
+}
