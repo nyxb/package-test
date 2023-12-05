@@ -1,6 +1,6 @@
 {
   "name": "@nyxb/package-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Test package",
   "author": "Dennis Ollhoff",
   "main": "src/index.js",
